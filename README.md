@@ -1,2 +1,1 @@
-# learningseo
-SEO Roadmap for learning development
+pnpm i @vercel/analytics
